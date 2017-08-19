@@ -1,0 +1,19 @@
+{
+  "name": "personalSite",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "lib/server.js",
+  "author": "Chris Houdlette",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "latest"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
